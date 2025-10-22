@@ -7,6 +7,9 @@
   <img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="License Badge">
 </p>
 
+<p align="center">
+  <img src="assets/gifexample.gif" width="600">
+</p>
 
 ---
 
