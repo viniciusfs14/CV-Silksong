@@ -1,0 +1,8 @@
+train: train
+val: val
+
+names:
+  0: hornet
+  1: vida
+  2: inimigo
+
