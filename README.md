@@ -1,4 +1,4 @@
-<h1 align="center">🎮 CV-Silksong – Detecção em tempo real com YOLO</h1>
+<h1 align="center">🎮 Visão Computacional com Hollow Knight Silksong – Detecção em tempo real com YOLO</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" alt="Python Badge">
@@ -14,7 +14,7 @@
 ---
 
 ## 🧠 Sobre o projeto
-Este projeto foi desenvolvido como parte de um **minicurso de Visão Computacional**, com o objetivo de demonstrar na prática o uso do **YOLOv8** (You Only Look Once) para detectar objetos em um ambiente dinâmico — o jogo *Silksong*.  
+Este projeto foi desenvolvido como parte de um **minicurso de Visão Computacional**, com o objetivo de demonstrar na prática o uso do **YOLOv8** (You Only Look Once) para detectar objetos em um ambiente dinâmico o jogo *Hollow Knight Silksong*.  
 
 A aplicação captura a tela do jogo em tempo real, processa os frames e exibe as detecções dos principais elementos do cenário:
 
@@ -37,4 +37,3 @@ Essa demonstração une aprendizado de máquina e entretenimento, mostrando o po
 
 ---
 
-## 📁 Estrutura do projeto
