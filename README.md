@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" alt="Python Badge">
   <img src="https://img.shields.io/badge/OpenCV-vision-green?logo=opencv" alt="OpenCV Badge">
   <img src="https://img.shields.io/badge/Ultralytics-YOLOv8-orange?logo=yolo" alt="YOLO Badge">
-  <img src="https://img.shields.io/badge/license-MIT-lightgrey" alt="License Badge">
 </p>
 
 <p align="center">
